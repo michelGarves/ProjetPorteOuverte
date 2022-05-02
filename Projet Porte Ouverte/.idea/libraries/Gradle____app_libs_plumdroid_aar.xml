@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/plumdroid.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae28eafc708009ea81c4eda51d1bd8d5/jetified-plumdroid/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae28eafc708009ea81c4eda51d1bd8d5/jetified-plumdroid/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae28eafc708009ea81c4eda51d1bd8d5/jetified-plumdroid/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

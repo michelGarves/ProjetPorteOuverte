@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    >
+
+
+    <EditText
+        android:id="@+id/edtPrenom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Prénom"
+        android:inputType="textCapWords|textNoSuggestions"
+
+        />
+    <EditText
+        android:id="@+id/edtNom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom"
+        android:inputType="textCapWords|textNoSuggestions"
+        />
+
+    <EditText
+        android:id="@+id/edtTelephone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Téléphone"
+        android:inputType="phone|textNoSuggestions" />
+
+    <Button
+        android:id="@+id/confirmNomPrenom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Suivant"
+        />
+
+    <Button
+        android:id="@+id/accueil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Accueil"
+        />
+
+</LinearLayout>
